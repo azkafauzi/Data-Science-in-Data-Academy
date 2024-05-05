@@ -1,6 +1,6 @@
 # Data Science Intern in Cybertrend Data Academy
 
-Repositori ini merupakan dokumentasi dari program MBKM  atau magang Kampus Merdeka. Pada masa intern ini saya dibimbing langsung oleh mentor profesional terkait analisis data, visualisasi dan data analitik dengan tableau, excel untuk analisis data, metodologi dan analisis ilmu data, algoritma dasar untuk ilmu data, python untuk ilmu data, softskill untuk profesional. Repositori ini berisi beberapa tugas data sciece dan proyek akhir yang benar-benar menyelesaikan kasus dunia nyata.
+This repository is a documentation of the MBKM program or Kampus Merdeka internship. During this internship, I was directly guided by professional mentors related to data analysis, visualization and data analytics with tableau, excel for data analysis, data science methodology and analysis, basic algorithms for data science, python for data science, soft skills for professionals. This repository contains several data science assignments and final projects that actually solve real-world cases.
 
 ## Projects
 
